@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there My name is Dekel. I learn and write code.👋
 
+🌱 I’m currently learning Full stack web development at [Developers Institute!](https://developers.institute/en/)
 <!--
 **Hanippa/Hanippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
