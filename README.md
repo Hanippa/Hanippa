@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dekel</h1>
 <h3 align="center">I learn and write code</h3>
 
-- 🌱 I’m currently learning Full stack web development at [Developers Institute!](https://developers.institute/en/)
-- 📫 How to reach me **dekelmaz09@gmail.com**
+- 🌱 I’m working as a Full stack web developer at I-Checkin & say hi!
+ 📫 How to reach me **dekelmaz09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
