@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dekel</h1>
 <h1>💫 About Me:</h1>
 
-🔭 I'm currently working as a full stack developer<br>🌱 Learning next.js ✨<br>⚡ Fun fact I love art!
+🔭 I'm currently working as a full stack developer<br>🌱 Learning next.js ✨
 
 
 ## 🌐 Socials:
